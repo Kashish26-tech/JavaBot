@@ -1,0 +1,9 @@
+# Compiled files (may contain API keys)
+out/
+*.class
+
+# Personal chat data
+chat_history.txt
+
+# VS Code settings
+.vscode/
