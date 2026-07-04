@@ -1,0 +1,2 @@
+Set WshShell = CreateObject("WScript.Shell")
+WshShell.Run "cmd /c cd /d E:\ChatbotApp && java --module-path ""C:\openjfx-26.0.1_windows-x64_bin-sdk\javafx-sdk-26.0.1\lib"" --add-modules javafx.controls -cp ""out;lib\json-20240303.jar"" ChatbotGUI", 0, False

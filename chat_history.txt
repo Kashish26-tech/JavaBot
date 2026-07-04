@@ -1,0 +1,122 @@
+
+═══════════════════════════════════
+  Session: 26 Jun 2026
+═══════════════════════════════════
+[19:15] You: hi
+[19:15] JavaBot: Hello. How can I assist you today?
+[19:15] You: give lyrics of sny song
+[19:15] JavaBot: I'd be happy to provide you with song lyrics. Please note that I have a vast database of song lyrics, but I may not have every song or artist covered.
+
+To get started, can you provide me with the following information:
+
+1. **Artist or band name**: Who is the singer or band you're looking for?
+2. **Song title**: What's the name of the song?
+3. **Album or release**: Is there a specific album or release you'd like to know lyrics from?
+4. **Genre**: Is there a particular genre of music you're interested in (e.g. pop, rock, hip-hop, etc.)?
+
+If you don't have any of this information, feel free to ask me to suggest some popular songs or artists!
+
+Also, please note that I'll do my best to provide the lyrics, but some songs may not be available due to copyright or licensing issues.
+
+When I provide the lyrics, I'll try to give you the most accurate and complete version of the song. If there are multiple versions or remixes, I can try to provide those as well.
+
+Let's get started!
+[19:15] You: kishor kumar
+[19:15] JavaBot: Nice to meet you, Kishor Kumar. I'm happy to assist you with any questions or topics you'd like to discuss. Are you looking for information on a specific topic, or would you like to chat about something in particular?
+
+═══════════════════════════════════
+  Session: 26 Jun 2026
+═══════════════════════════════════
+[19:20] You: hi
+[19:20] JavaBot: How can I assist you today?
+[19:20] You: define force
+[19:20] JavaBot: **Force**
+
+Force is a push or pull that causes an object to change its motion or shape. It is a fundamental concept in physics and is often represented by the symbol F. Force can be described as a push or pull that results from the interaction between two objects.
+
+**Types of Force**
+
+There are several types of force, including:
+
+1. **Gravity**: The force that attracts objects with mass towards each other.
+2. **Friction**: The force that opposes motion between two surfaces that are in contact.
+3. **Normal Force**: The force that acts perpendicular to a surface, opposing the force of gravity.
+4. **Tension**: The force that acts along a string or rope, caused by the stretching of the material.
+5. **Electromagnetic Force**: The force that acts between charged particles, such as electrons and protons.
+6. **Strong Nuclear Force**: The force that holds protons and neutrons together in the nucleus of an atom.
+7. **Weak Nuclear Force**: The force that causes certain types of radioactive decay.
+
+**Equations**
+
+There are several important equations related to force:
+
+1. **F = m × a** (Force equals mass times acceleration)
+2. **F = G × (m1 × m2) / r** (Force of gravity between two objects)
+
+**Real-World Examples**
+
+1. **Lifting a heavy object**: The force required to lift a heavy object is equal to the weight of the object multiplied by the acceleration due to gravity.
+2. **Breaking a stick**: The force required to break a stick depends on the type of material and the shape of the stick.
+3. **Driving a car**: The force required to accelerate a car depends on the mass of the car and the acceleration of the car.
+
+**Code Example (Java)**
+
+```java
+public class ForceCalculator {
+    public static void main(String[] args) {
+        // Define variables
+        double mass = 10; // kg
+        double acceleration = 5; // m/s^2
+
+        // Calculate force
+        double force = mass * acceleration;
+
+        // Print result
+        System.out.println("Force: " + force + " N");
+    }
+}
+```
+
+This code calculates the force required to accelerate an object with a mass of 10 kg by 5 m/s^2, using the equation F = m × a.
+
+═══════════════════════════════════
+  Session: 28 Jun 2026
+═══════════════════════════════════
+[14:09] You: hi
+[14:09] JavaBot: Hello. How can I assist you today?
+[14:10] You: give me a poem
+[14:10] JavaBot: Here's a poem I came up with:
+
+"Whispers of the Wind"
+
+The sun sets slow and paints the sky,
+A fiery hue that makes me sigh,
+The stars come out and twinkle bright,
+A night of peace, a peaceful sight.
+
+The wind whispers secrets in my ear,
+Of distant lands and memories so dear,
+It carries scents of blooms so sweet,
+And rustles leaves at my gentle feet.
+
+In this quiet moment, I am free,
+My heart at peace, my soul at sea,
+The world is hushed, a peaceful place,
+Where love and hope fill every space.
+
+So let the wind whisper its tale,
+Of love and joy, of laughter and gale,
+For in its whispers, I find my peace,
+A sense of calm, a world to cease.
+
+I hope you enjoyed it.
+[14:10] You: 2+2
+[14:10] JavaBot: The answer is 4.
+[14:10] You: give the time
+[14:10] JavaBot: Unfortunately, I'm a text-based AI and do not have the ability to display the current time. However, I can suggest a few options to help you find out the current time:
+
+1. Check your device's clock or calendar.
+2. Search for "current time" on your favorite search engine.
+3. Ask a voice assistant like Siri, Google Assistant, or Alexa.
+
+If you're looking for a specific time zone, please let me know and I can try to provide it.
